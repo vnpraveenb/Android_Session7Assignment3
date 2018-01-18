@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Session7Assignment3</string>
+    <string name="selectImage">Select from Gallery</string>
+    <string name="clear">Clear Image</string>
+
+</resources>
